@@ -1,0 +1,9 @@
+C:\ProjectsFast\SharpSkynetIM\SharpSkynetIM\bin\Debug\SharpSkynetIM.dll
+C:\ProjectsFast\SharpSkynetIM\SharpSkynetIM\bin\Debug\SharpSkynetIM.pdb
+C:\ProjectsFast\SharpSkynetIM\SharpSkynetIM\bin\Debug\RestSharp.dll
+C:\ProjectsFast\SharpSkynetIM\SharpSkynetIM\bin\Debug\RestSharp.xml
+C:\ProjectsFast\SharpSkynetIM\SharpSkynetIM\obj\Debug\SharpSkynetIM.dll
+C:\ProjectsFast\SharpSkynetIM\SharpSkynetIM\obj\Debug\SharpSkynetIM.pdb
+C:\ProjectsFast\SharpSkynetIM\SharpSkynetIM\obj\Debug\SharpSkynetIM.csprojResolveAssemblyReference.cache
+C:\ProjectsFast\SharpSkynetIM\SharpSkynetIM\bin\Debug\Newtonsoft.Json.dll
+C:\ProjectsFast\SharpSkynetIM\SharpSkynetIM\bin\Debug\Newtonsoft.Json.xml
